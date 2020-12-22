@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 3px 2px gray;
+    margin:5px;
+}
+.discount{
+    background-color: #ff0000;
+    display: inline-block;
+    margin-bottom: 5px;
+}
